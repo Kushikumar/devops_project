@@ -1,0 +1,18 @@
+
+(c) Microsoft Corporation. All rights reserved.
+
+C:\djangoprojects\Scripts>ativate
+'ativate' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\djangoprojects\Scripts>activate
+
+(djangoprojects) C:\djangoprojects\Scripts>django-admin startproject thirdproject
+
+(djangoprojects) C:\djangoprojects\Scripts>cd thirdproject
+
+(djangoprojects) C:\djangoprojects\Scripts\thirdproject>python manage.py startapp testapp
+
+(djangoprojects) C:\djangoprojects\Scripts\thirdproject>python manage.py runserver
+
+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
