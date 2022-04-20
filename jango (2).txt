@@ -15,3 +15,4 @@ C:\djangoprojects\Scripts>activate
 kjkhuihkj
 (djangoprojects) C:\djangoprojects\Scripts\thirdproject>python manage.py runserverkj
 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
+vdfvjdfvdlkfmldkfmkbk
