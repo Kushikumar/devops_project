@@ -12,7 +12,6 @@ C:\djangoprojects\Scripts>activate
 (djangoprojects) C:\djangoprojects\Scripts>cd thirdproject
 
 (djangoprojects) C:\djangoprojects\Scripts\thirdproject>python manage.py startapp testapp
-
-(djangoprojects) C:\djangoprojects\Scripts\thirdproject>python manage.py runserver
-
+kjkhuihkj
+(djangoprojects) C:\djangoprojects\Scripts\thirdproject>python manage.py runserverkj
 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
